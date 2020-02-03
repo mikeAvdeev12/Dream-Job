@@ -18,7 +18,7 @@
 
       cd frontend/         переход в папку с фронт-эндом нашего проекта
       npm install          устанавливает все необходимые модули из файла package.json
-      npm start            запуск фронт-энд части TableSports
+      npm start            запуск фронт-энд части
       
 ## Участники проекта
 [Илья](https://github.com/ilyaKodit)
